@@ -1,4 +1,4 @@
-import express from 'express';
+﻿import express from 'express';
 import { getAiRecommendation } from '../aiService.js';
 
 const router = express.Router();
